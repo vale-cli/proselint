@@ -1,0 +1,49 @@
+../edges.txt:3:1:proselint.But:No paragraph should start with a 'But'.
+../edges.txt:3:34:proselint.LexicalIllusions:There's a lexical illusion in 'The the' - a phrase is repeated.
+../edges.txt:4:32:proselint.Very:Substitute 'damn' every time you're inclined to write 'very'; your editor will delete it and the writing will be just as it should be.
+../edges.txt:6:1:proselint.But:No paragraph should start with a 'But'.
+../edges.txt:6:41:proselint.CurlyQuotes:Use curly quotes “”, not straight quotes "".
+../edges.txt:8:16:proselint.CurlyQuotes:Use curly quotes “”, not straight quotes "".
+../edges.txt:8:74:proselint.Very:Substitute 'damn' every time you're inclined to write 'very'; your editor will delete it and the writing will be just as it should be.
+../edges.txt:9:15:proselint.Uncomparables:Comparison of an uncomparable: 'very unique' is not comparable.
+../edges.txt:9:15:proselint.Very:Substitute 'damn' every time you're inclined to write 'very'; your editor will delete it and the writing will be just as it should be.
+../edges.txt:11:20:proselint.Spelling:Inconsistent spelling of 'colour' (vs. 'color').
+../edges.txt:11:66:proselint.Spelling:Inconsistent spelling of 'organise' (vs. 'organize').
+../edges.txt:12:29:proselint.Spelling:Inconsistent spelling of 'center' (vs. 'centre').
+../edges.txt:14:11:proselint.DateCase:It's standard to use periods for lowercase 'a.m.' or 'p.m.'.
+../edges.txt:14:11:proselint.DateSpacing:It's standard to put a space before 'a.m.' or 'p.m.'.
+../edges.txt:14:30:proselint.DateMidnight:'12 a.m.' and '12 p.m.' are ambiguous. Use 'midnight' or 'noon'.
+../edges.txt:14:55:proselint.DateDecadesFull:Apostrophes aren't needed for decades.
+../edges.txt:14:57:proselint.DateDecades:Apostrophes aren't needed for decades.
+../edges.txt:14:70:proselint.DateDecades:Apostrophes aren't needed for decades.
+../edges.txt:15:15:proselint.DateMonthComma:When specifying a month and year, no comma is needed.
+../edges.txt:15:29:proselint.DateMonthOf:When specifying a month and year, 'of' is unnecessary.
+../edges.txt:17:10:proselint.Currency:Incorrect use of symbols in $10 dollars.
+../edges.txt:17:27:proselint.Copyright:(c) is a goofy alphabetic approximation, use the symbol ©.
+../edges.txt:17:35:proselint.Trademark:(TM) is a goofy alphabetic approximation, use the symbol ™.
+../edges.txt:17:44:proselint.RegisteredTrademark:(R) is a goofy alphabetic approximation, use the symbol ®.
+../edges.txt:17:52:proselint.Multiplication:Use the multiplication symbol ×, not the letter x.
+../edges.txt:17:57:proselint.Ellipsis:'...' is an approximation, use the ellipsis symbol '…'.
+../edges.txt:17:68:proselint.SentenceSpacing:More than two spaces after the period; use 1 or 2.
+../edges.txt:19:1:proselint.PreferredFormsMeantime:'Meanwhile,' is the preferred form.
+../edges.txt:19:22:proselint.PreferredFormsMeantimeInner:'meanwhile,' is the preferred form.
+../edges.txt:19:45:proselint.PhrasalAdjectivesLy:No hyphen is necessary in phrasal adjectives with an adverb ending in -ly, unless the -ly adverb is part of a longer phrase.
+../edges.txt:21:25:proselint.UncomparablesMost:Comparison of an uncomparable: 'most unique' is not comparable.
+../edges.txt:21:60:proselint.Greylist:Use of 'obviously'. This is obviously an inadvisable word to use.
+../edges.txt:21:73:proselint.Greylist:Use of 'utilize'. Do you know anyone who needs to utilize the word utilize?
+../edges.txt:22:8:proselint.Waxed:The modifier following 'waxed' must be an adj.: 'waxed poetic' is correct.
+../edges.txt:22:33:proselint.GroupTerms:The venery term is 'murder of crows'.
+../edges.txt:24:4:proselint.CapitalizationDays:Days of the week should be capitalized. 'Monday' is the preferred form.
+../edges.txt:24:14:proselint.CapitalizationSeasons:Seasons shouldn't be capitalized. 'winter' is the preferred form.
+../edges.txt:24:22:proselint.Capitalization:Incorrect capitalization. 'Mother Nature' is the preferred form.
+../edges.txt:24:41:proselint.Hedging:Hedging. Just say it.
+../edges.txt:24:65:proselint.Hedging:Hedging. Just say it.
+../edges.txt:25:1:proselint.SpellingMisc:Misspelling. 'a lot' is the preferred spelling.
+../edges.txt:25:13:proselint.Hyperbole:'up!!' is hyperbolic.
+../edges.txt:25:20:proselint.Exclamation:More than 30 ppm of exclamations. Keep them under control. Surpassed 30 ppm.
+../edges.txt:25:23:proselint.Hyperbole:'Really??' is hyperbolic.
+../edges.txt:27:1:proselint.Annotations:Annotation left in text.
+../edges.txt:29:9:proselint.CorporateSpeak:Minimize your use of corporate catchphrases like 'circle back around'.
+../edges.txt:29:28:proselint.ClichesGarner:'at the end of the day' is a cliché
+../edges.txt:29:28:proselint.CorporateSpeak:Minimize your use of corporate catchphrases like 'at the end of the day'.
+../edges.txt:29:51:proselint.Cliches:'in a nutshell' is a cliché
