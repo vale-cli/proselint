@@ -2,7 +2,7 @@
 
 > [`proselint`](https://github.com/amperser/proselint/) places the world’s greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.
 
-This repository contains a [Vale-compatible](https://github.com/errata-ai/vale) implementation of the guidelines enforced by the `proselint` ([LICENSE](https://github.com/amperser/proselint/blob/master/LICENSE.md)) linter.
+This repository contains a [Vale-compatible](https://github.com/vale-cli/vale) implementation of the guidelines enforced by the `proselint` ([LICENSE](https://github.com/amperser/proselint/blob/master/LICENSE.md)) linter.
 
 ## Getting Started
 
